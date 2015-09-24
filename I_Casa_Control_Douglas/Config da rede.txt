@@ -1,0 +1,4 @@
+byte ip[] = { 192, 168, 1, 180 }; 
+byte gateway[] = { 192, 168, 1, 1 }; 
+byte subnet[] = { 255, 255, 255, 0 }; 
+EthernetServer server(80);   

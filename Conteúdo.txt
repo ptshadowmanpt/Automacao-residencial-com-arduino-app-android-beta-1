@@ -1,0 +1,17 @@
+Conteúdo:
+
+-Pasta I_Casa_Control_Douglas
+contendo:
+Config da rede
+I_Casa_Control_Douglas ( sketch Arduíno )
+ICASA_Control_dns_1.aia ( desenvolvimento no App Inventor 2 )
+ICASA_Control_dns_1.apk ( app para instalação no sistema Android )
+
+-Pasta Screens
+contendo:
+alguns screenshots do app android
+
+-I-Casa Control Referências
+pdf com resumo de instalação de componentes e periféricos 
+resumo dos interfaces
+material usado
